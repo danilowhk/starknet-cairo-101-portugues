@@ -1,15 +1,15 @@
 # StarkNet Cairo 101
 
 **Comece com o Cairo com este simples tutorial.
-Completar os puzzles/exercícios, obter fichas e aprender sobre os contratos inteligentes da StarkNet!**
+Complete os puzzles/exercícios, obtenha tokens e aprenda sobre os contratos inteligentes da StarkNet!**
 
 ## Introdução
 
 ### Isenção de responsabilidade
 
-Não espere qualquer benefício da utilização disto a não ser aprender algumas coisas fixes sobre a StarkNet, o primeiro rollup de validade para fins gerais no Ethereum Mainnnet.
+Não espere qualquer benefício desse tutorial a não ser aprender sobre algumas coisas interessentas e sobre a StarkNet, o primeiro rollup de validade para fins gerais no Ethereum Mainnnet.
 
-A StarkNet ainda está em Alfa. Isto significa que o desenvolvimento está em curso, e que a tinta não está seca em todo o lado. As coisas vão melhorar, e entretanto, fazemos as coisas funcionarem com um pouco de fita adesiva aqui e ali!
+A StarkNet ainda está em Alfa. Isto significa que o desenvolvimento está em andamento, e que a tinta não está seca em todos os cantos. A maior parte ainda ira melhorar, por enquanto, testamos e fazemos as coisas funcionarem com um pouco de fita adesiva aqui e ali!
 
 ### Como funciona
 
@@ -17,8 +17,8 @@ A StarkNet ainda está em Alfa. Isto significa que o desenvolvimento está em cu
 
 
 
-**Completar os exercícios e obter fichas!**
-Este workshop é um conjunto de contratos inteligentes implantados na StarkNet Alpha em testnet. Cada contrato inteligente é um exercício/puzzle - que esboça uma característica da linguagem de contrato Smart do Cairo.
+**Complete os exercícios e obtenha tokens!**
+Este workshop é um conjunto de contratos inteligentes "deployed"/ "implantados" / "lançados" na StarkNet Alpha na testnet. Cada contrato inteligente é um exercício/puzzle/desafio - que esboça uma característica da linguagem dos contratos inteligentes em Cairo.
 
 A conclusão do exercício irá creditá-lo com pontos sob a forma de uma [ficha ERC20] (contratos/token/TDERC20.cairo).
 
@@ -26,55 +26,56 @@ A conclusão do exercício irá creditá-lo com pontos sob a forma de uma [ficha
 
 
 
-Este workshop centra-se na *leitura* do código do Cairo e nos contratos inteligentes da StarkNet para compreender a sua sintaxe. Não precisa de codificar ou instalar nada na sua máquina para a seguir e completar.
+Este workshop centra-se na *leitura* do código em Cairo e dos contratos inteligentes da StarkNet para que possa compreender a sua sintaxe. Não precisa codar ou instalar nada na sua máquina para a seguir e completar os desafios.
 
 
 
 
 
-Demorará algum tempo a começar (fazendo os dois primeiros exercícios) no tutorial. Segurem-se! Uma vez lá, as coisas fluirão mais facilmente. Está a aprender!
+Os primeiros dois exercícios do tutorial pode levar um tempinho, mas segurem-se! Uma vez lá(depois dos dois primeiros exercícios), as coisas fluirão mais facilmente. Voce esta aprendendo!
 
-### Onde estou?
 
-Este workshop é o primeiro de uma série destinada a ensinar como construir na StarkNet. Veja o seguinte:
+### Onde estou, o que é esse repositório?
+
+Este workshop é o primeiro de uma série destinada a ensinar como construir e desenvolver na StarkNet. Veja o seguinte:
 
 | Topic | GitHub repo |
 | ------------------------------------------- | -------------------------------------------------------------------------------------- |
 | Aprenda a ler o código do Cairo (está aqui) | [Cairo 101](https://github.com/starknet-edu/starknet-cairo-101) |
 | Implantar e personalizar um ERC721 NFT | [StarkNet ERC721](https://github.com/starknet-edu/starknet-erc721) |
-| Implantar e personalizar uma ficha ERC20 | [StarkNet ERC20](https://github.com/starknet-edu/starknet-erc20) |
-| Construir uma aplicação de camada transversal | [StarkNet messaging bridge](https://github.com/starknet-edu/starknet-messaging-bridge) | [StarkNet messaging bridge](https://github.com/starknet-edu/starknet-messaging-bridge) | [StarkNet messaging bridge](https://github.com/starknet-edu/starknet-messaging-bridge)
+| Implantar e personalizar um token ERC20 | [StarkNet ERC20](https://github.com/starknet-edu/starknet-erc20) |
+| Construir umm Dapp multi layer | [StarkNet messaging bridge](https://github.com/starknet-edu/starknet-messaging-bridge) | [StarkNet messaging bridge](https://github.com/starknet-edu/starknet-messaging-bridge) | [StarkNet messaging bridge](https://github.com/starknet-edu/starknet-messaging-bridge)
 | Debugue facilmente os seus contratos no Cairo | [StarkNet debug](https://github.com/starknet-edu/starknet-debug) |
-| Desenhe o seu próprio contrato de conta | [abstracção de conta na StarkNet](https://github.com/starknet-edu/starknet-accounts) | [abstracção de conta na StarkNet](https://github.com/starknet-edu/starknet-accounts)
+| Desenvolva o seu próprio contrato de conta | [abstracção de conta na StarkNet](https://github.com/starknet-edu/starknet-accounts) | [abstracção de conta na StarkNet](https://github.com/starknet-edu/starknet-accounts)
 
 ### Fornecer feedback & obter ajuda
 
-Uma vez terminado o seu trabalho neste tutorial, o seu feedback será muito apreciado!
+Uma vez que tenha terminado o seu trabalho neste tutorial, o seu feedback será muito apreciado!
 
-**Por favor, preencha [este formulário](https://forms.reform.app/starkware/untitled-form-4/kaes2e) para nos dizer o que podemos fazer para o tornar melhor.**
-
-
-
-
-
-E se tiver dificuldade em seguir em frente, avise-nos! Este workshop destina-se a ser o mais acessível possível; queremos saber se não é esse o caso.
+**Por favor, preencha [este formulário](https://forms.reform.app/starkware/untitled-form-4/kaes2e) para nos dizer o que podemos fazer para o tornar melhor. (Atualmente esse formulário está em inglês)**
 
 
 
 
 
-Tem alguma pergunta a fazer? Junte-se ao nosso [servidor Discord](https://starknet.io/discord), registe-se, e junte-se ao canal #tutorials-support.
+E se tiver dificuldade durante a sua jornada, nos avise! Este workshop destina-se a ser o mais acessível possível; queremos caso ele não cumpra o seu propósito.
 
-Está interessado em seguir workshops online sobre como aprender a desenvolver na StarkNet? [Subscreva aqui](http://eepurl.com/hFnpQ5)
+
+
+
+
+Tem alguma pergunta? Junte-se ao nosso [servidor Discord](https://starknet.io/discord), registe-se, e junte-se ao canal #tutorials-support.
+
+Está interessado em se inscrever a workshops online sobre como aprender e desenvolver na StarkNet? [Subscreva aqui](http://eepurl.com/hFnpQ5)
 
 
 ### Contribuição
 
-Este projecto pode ser melhorado e irá evoluir à medida que a StarkNet amadurecer. As vossas contribuições são bem-vindas! Aqui estão algumas coisas que pode fazer para ajudar:
+Este projeto/workshop pode melhorar e irá evoluir à medida que a StarkNet amadurecer. As suas contribuições são bem-vindas! Aqui estão algumas coisas que pode fazer para ajudar:
 
-- Criar um ramo com uma tradução para a sua língua
+- Crie uma versão com uma tradução para a sua língua nativa
 - Corrija bugs se encontrar alguns
-- Acrescentar uma explicação nos comentários do exercício, se achar que necessita de mais explicações
+- Acrescente explicações nos comentários dos exercícios, se achar que necessita de mais explicações
 - Adicione exercícios que mostram a sua característica favorita do Cairo
 
 ### Idiomas
@@ -88,12 +89,12 @@ Está disponível uma versão em mandarim 中文版本请查看这里[aqui](http
 
 **Para completar o tutorial precisa de recolher pontos.** Estes pontos serão propriedade de uma carteira de contrato inteligente que precisa de utilizar.
 
-- A forma mais fácil de criar um é utilizar Argent X ([descarregar a extensão cromada](https://chrome.google.com/webstore/detail/argent-x-starknet-wallet/dlcobpjiigpikoobohmabehhmhfoodbb/) ou [verificar o seu repo](https://github.com/argentlabs/argent-x)) ou Braavos ([descarregar a extensão cromada](https://chrome.google.com/webstore/detail/braavos-wallet/jnlgamecbpmbajjfhmmmlhejkemejdma)). Estas soluções de carteira são semelhantes ao que o Metamask é para o Ethereum e permitem aos utilizadores iniciar transacções e interagir com aplicações na StarkNet.
-- Siga as instruções para instalar a extensão e implantar uma conta de contrato inteligente (pode demorar cerca de 5 minutos a ser implantada). Note que na StarkNet existe apenas um tipo de contas - contas de contrato inteligentes (isto chama-se Abstracção de Conta), em contraste com o Ethereum, onde existem carteiras e contratos inteligentes. Por outras palavras, cada carteira na StarkNet é um contrato inteligente e não há distinção entre elas e outros contratos inteligentes. Portanto, para criar uma nova carteira, é necessário implementar uma transacção que publique a sua carteira de contrato inteligente na rede.
-- Certifique-se de que está na rede Goerli testnet.
-- Os pontos do tutorial são mantidos em contrato `[0x5c6b1379f1d4c8a4f5db781a706b63a885f3f9570f7863629e99e2342ac344c](https://goerli.voyager.online/contract/0x5c6b1379f1d4c8a4f5db781a706b63a885f3f9570f7863629e99e2342ac344c)`. Clique em "Adicionar Token" na sua carteira instalada e no endereço do contrato para obter o seu saldo de pontos para aparecer lá! Um novo token chamado SC101 (starknet-cairo-101) irá aparecer na sua carteira.
-- Ligue [Voyager](https://voyager.online/) ao seu contrato inteligente de conta. A Voyager é o explorador de blocos da StarkNet (o equivalente do Etherscan para Ethereum) e permite-lhe navegar pelo estado da cadeia de bloqueio, ver todas as transacções e o seu estado. Ao ligar a Voyager à sua carteira, poderá transmitir as suas transacções através da sua carteira.
-- Para executar transacções no testnet da Goerli StarkNet ** necessitará do testnet ETH para pagar a gasolina**. Para obter algum, vá à [torneira](https://faucet.goerli.starknet.io/) e siga as instruções. Pode demorar vários minutos, mas deverá receber algum L2 Goerli ETH na sua carteira que poderá utilizar para executar transacções no testnet.
+- A forma mais fácil de criar um é utilizar Argent X ([download da extensão do chrome](https://chrome.google.com/webstore/detail/argent-x-starknet-wallet/dlcobpjiigpikoobohmabehhmhfoodbb/) ou [verificar o repositório deles](https://github.com/argentlabs/argent-x)) ou Braavos ([download da extensão do chrome](https://chrome.google.com/webstore/detail/braavos-wallet/jnlgamecbpmbajjfhmmmlhejkemejdma)). Estas soluções de carteira são semelhantes ao o que o Metamask é para o Ethereum e permitem os usuarios iniciar transacções e interagir com aplicações e aplicativos na StarkNet.
+- Siga as instruções para instalar a extensão e implantar uma conta de contrato inteligente (pode demorar cerca de 5 minutos a ser implantada). Note que na StarkNet existe apenas um tipo de contas - contas de contrato inteligentes (isto chama-se Abstração de Conta), em contraste com o Ethereum, onde existem carteiras e contratos inteligentes. Em outras palavras, cada carteira na StarkNet é um contrato inteligente e não há distinção entre eles e outros contratos inteligentes. Portanto, para criar uma nova carteira, é necessário implementar uma transacção que publique a sua carteira de contrato inteligente na rede.
+- Certifique-se de que está na rede testnet Goerli.
+- Os pontos do tutorial são mantidos em ERC20 com o contrato `[0x5c6b1379f1d4c8a4f5db781a706b63a885f3f9570f7863629e99e2342ac344c](https://goerli.voyager.online/contract/0x5c6b1379f1d4c8a4f5db781a706b63a885f3f9570f7863629e99e2342ac344c)`. Clique em "Adicionar Token" na sua carteira instalada e adicione esse endereço como token para obter o seu saldo de pontos! Caso tenha adicionado com sucesso, um novo token chamado SC101 (starknet-cairo-101) irá aparecer na sua carteira.
+- Ligue [Voyager](https://voyager.online/) ao seu contrato inteligente de conta. A Voyager é o explorador de blocos da StarkNet (o equivalente do Etherscan para Ethereum) e permite-lhe navegar pelo estado da blockchain, ver todas as transacções e o seu estado. Ao ligar a Voyager à sua carteira, poderá transmitir as suas transações através da sua carteira.
+- Para executar transações na testnet da Goerli StarkNet ** você precisará da testnet ETH para pagar as "gas fees"**. Para obter os seus primeiros testnet ETH, vá à [faucet](https://faucet.goerli.starknet.io/) e siga as instruções. Pode demorar alguns minutos, mas deverá receber algum L2 Goerli ETH na sua carteirapara que possa executar transações na Goerli testnet.
 
 ### Resolver exercícios & Obter pontos
 
