@@ -125,7 +125,7 @@ Ao procurar um contrato/transacção, certifique-se sempre de que está na vers�
 | Tópico | Código do contrato | Contrato na Voyager |
 | ------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | Contador de pontos ERC20 | [Contador de pontos ERC20](contracts/token/TDERC20.cairo) | [Link](https://goerli.voyager.online/contract/0x5c6b1379f1d4c8a4f5db781a706b63a885f3f9570f7863629e99e2342ac344c) |
-| [Ex01](contracts/ex01.cairo) | [Link](https://goerli.voyager.online/contract/0x29e2801df18d7333da856467c79aa3eb305724db57f386e3456f85d66cbd58b) |
+| Sintaxe Geral | [Ex01](contracts/ex01.cairo) | [Link](https://goerli.voyager.online/contract/0x29e2801df18d7333da856467c79aa3eb305724db57f386e3456f85d66cbd58b) |
 | Variáveis de armazenamento, getters, afirmações | [Ex02](contracts/ex02.cairo) | [Link](https://goerli.voyager.online/contract/0x18ef3fa8b5938a0059fa35ee6a04e314281a3e64724fe094c80e3720931f83f) |
 | Ler e salvar variáveis no armazenamento | [Ex03](contracts/ex03.cairo) | [Link](https://goerli.voyager.online/contract/0x79275e734d50d7122ef37bb939220a44d0b1ad5d8e92be9cdb043d85ec85e24) |
 | Mappings | [Ex04](contracts/ex04.cairo) | [Link](https://goerli.voyager.online/contract/0x2cca27cae57e70721d0869327cee5cb58098af4c74c7d046ce69485cd061df1) | [Link
