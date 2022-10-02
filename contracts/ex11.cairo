@@ -1,9 +1,4 @@
-// ######## Ex 11
-// # Importing functions
-// In this exercise, you need to:
-// - Read this contract and understand how it imports functions from another contract
-// - Find the relevant contract it imports from
-// - Read the code and understand what is expected of you
+1   1
 
 %lang starknet
 
